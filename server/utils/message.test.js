@@ -12,7 +12,7 @@ describe('generateMessage', () => {
 });
 
 describe('generateLocationMessage', () => {
-  it('shpuld generate correct location object', () => {
+  it('should generate correct location object', () => {
     var url = 'https://www.google.com/maps?q=44.9778368,16.7060617'
     var lat = 44.9778368;
     var lng = 16.7060617;
